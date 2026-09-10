@@ -2,9 +2,8 @@
 
 > An end-to-end redesign of RailYatri, one of India's leading train-travel apps — from market research and user personas through high-fidelity UI and prototyping.
 
-**[Full Case Study (PDF)](#https://drive.google.com/file/d/1a7V4fonGlp3q208xwSq1Y3Y1XE2TbQeN/view?usp=sharing)** · **[Figma File](https://www.figma.com/design/igF3CHxWGLAIvsKaEZC8Or/RailYatri-App)** · **[Prototype Walkthrough (Video)](#https://drive.google.com/file/d/1riyUcKnRfKaJP86-u-aTzwdT-a4SHV36/view?usp=sharing)**
+**[Full Case Study (PDF)](https://drive.google.com/file/d/1a7V4fonGlp3q208xwSq1Y3Y1XE2TbQeN/view?usp=sharing)** · **[Figma File](https://www.figma.com/design/igF3CHxWGLAIvsKaEZC8Or/RailYatri-App)** · **[Prototype Walkthrough (Video)](https://drive.google.com/file/d/1riyUcKnRfKaJP86-u-aTzwdT-a4SHV36/view?usp=sharing)**
 
-*(Replace the `#` links above with your actual PDF/video links once uploaded — GitHub can't host large PDFs well, so consider linking a Drive/Behance/Figma-hosted version.)*
 
 ## Overview
 
