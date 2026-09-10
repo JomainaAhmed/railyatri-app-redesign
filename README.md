@@ -35,8 +35,3 @@ Figma (design & prototyping) · [research tools/methods you used — surveys, in
 ## What's Next
 
 - Usability testing the high-fidelity prototype with target users and iterating on findings
-- [Add any quantified before/after or testing results here once available]
-
-## About
-
-Designed by **Jomaina Hafiz Ahmed** — B.Tech CS Engineering. [LinkedIn](#) · [Portfolio](#)
